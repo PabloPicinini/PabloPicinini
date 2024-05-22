@@ -12,7 +12,8 @@ Sou amante da tecnologia que adora explorar o mundo do código. Quando não esto
 - Atualmente trabalho como Analista de Dados, mas meu objeto é me tornar um Cientista de Dados, e estou dedicando tempo e esforço para estudar e me preparar para alcançar esse objetivo. 🚀💡
 
 - Também exploro o mundo do Front-End com React e Node.js.
-- Sou quase formado em graduação de Sistemas de Informação.
+- Sou formado em graduação de Sistemas de Informação.
+- Cursando atualmente Pós Graduação de Machine Learning Engineering na FIAP.  
 
 - Ah, antes que eu me esqueça, sou um orgulhoso dono de um gato bem preguiçoso e, nos meus momentos de folga, você me encontrará tocando violão para relaxar e encontrar inspiração. 🐱🎸
 
