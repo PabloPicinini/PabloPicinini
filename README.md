@@ -9,7 +9,7 @@ Sou amante da tecnologia que adora explorar o mundo do código. Quando não esto
 
 - Estou sempre disposto para aprender e colaborar em projetos emocionantes.
 
-- Atualmente trabalho como Analista de Dados, mas meu objeto é me tornar um Cientista de Dados, e estou dedicando tempo e esforço para estudar e me preparar para alcançar esse objetivo. 🚀💡
+- Atualmente trabalho como Analista de Dados, mas meu objeto é me tornar um Engenheiro de Dados, e estou dedicando tempo e esforço para estudar e me preparar para alcançar esse objetivo. 🚀💡
 
 - Também exploro o mundo do Front-End com React e Node.js.
 - Sou formado em graduação de Sistemas de Informação.
