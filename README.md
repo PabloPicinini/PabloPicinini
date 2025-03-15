@@ -7,7 +7,7 @@ Sou amante da tecnologia que adora explorar o mundo do código. Quando não esto
 - Sou apaixonado por dados e adoro me aprofundar em SQL para manipulá-los e transformá-los em insights valiosos. 🎲
     - Python é minha linguagem preferida quando se trata de automatizar tarefas, criar análises de dados robustas e construir soluções tecnológicas.  🐍
 
-- Estou sempre disposto para aprender e colaborar em projetos emocionantes.
+- Estou sempre disposto para aprender e colaborar em projetos desafiadores.
 
 - Atualmente trabalho como Analista de Dados, mas meu objeto é me tornar um Engenheiro de Dados, e estou dedicando tempo e esforço para estudar e me preparar para alcançar esse objetivo. 🚀💡
 
